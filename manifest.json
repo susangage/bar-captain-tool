@@ -1,6 +1,6 @@
 {
   "name": "SGC Bar Captain Planning Tool",
-  "short_name": "SGC Bar",
+  "short_name": "Bar Captain Tool",
   "description": "Bar setup planning tool for Susan Gage Caterers",
   "start_url": "./index.html",
   "display": "standalone",
